@@ -1,0 +1,17 @@
+SampleActor:
+  description: A sample Actor for CraftBeerPi
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/craftbeerpi/sample_actor
+
+AmazonAlexaPlugin:
+  description: Amazon Alexa Plugin. Control CraftBeerPi via Alexa Skill. See https://github.com/craftbeerpi/alexa for installation instructions
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/craftbeerpi/alexa.git
+
+HTTPSensor:
+  description: HTTP Sensor Endpoint for CraftBeerPi to allow other service to push data via HTTP to CraftBeerPi
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/craftbeerpi/http_sensor.git
