@@ -16,7 +16,7 @@ HTTPSensor:
   author: CraftBeerPi
   repo_url: https://github.com/craftbeerpi/http_sensor.git
 
-PIDArduino
+PIDArduino:
   description: PID Logic proted from Arduino 
   api: 3.0
   author: CraftBeerPi
