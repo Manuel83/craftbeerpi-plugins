@@ -21,3 +21,9 @@ PIDArduino:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-PIDArduino.git  
+
+PIDFermentationChamber:
+  description: PID for Fermentation
+  api: 3.0
+  author: Carl Allen
+  repo_url: https://github.com/carlallen/cbpi_PIDFermentationChamber
