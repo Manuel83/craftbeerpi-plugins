@@ -27,3 +27,10 @@ PIDFermentationChamber:
   api: 3.0
   author: Carl Allen
   repo_url: https://github.com/carlallen/cbpi_PIDFermentationChamber
+
+InvertPWM:
+  description: Inverted Acgtor PWM
+  api: 3.0
+  author: Christopher Seesser
+  repo_url: https://github.com/seesser/InvertPWM
+  
