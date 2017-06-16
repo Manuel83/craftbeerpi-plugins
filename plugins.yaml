@@ -33,4 +33,9 @@ InvertPWM:
   api: 3.0
   author: Christopher Seesser
   repo_url: https://github.com/seesser/InvertPWM
-  
+
+SimpleBoilLogic:
+  description: Simple logic to set the heater power setting during the ramp up period and then have it scaled back to a boiling power setting.
+  api: 3.0
+  author: Luke Mullan
+  repo_url: https://github.com/jalim/SimpleBoilLogic.git
