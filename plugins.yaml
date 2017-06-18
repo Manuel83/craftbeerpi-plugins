@@ -45,3 +45,15 @@ BlynkConnector:
   api: 3.0
   author: Joe Alloway
   repo_url: https://github.com/IndyJoeA/cbpi_BlynkPlugin.git
+
+WIFISocketActor:
+  description: Connect Edimax wifi socket to CraftBeerPi
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-WIFISocket.git
+  
+GembirdUSBActor:
+  description: Connect Gembird USB socket to CraftBeerPi. Please read the documentation. Run 'apt-get install sispmctl' in a terminal window to install the missing libs.
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-GembridUSB.git
