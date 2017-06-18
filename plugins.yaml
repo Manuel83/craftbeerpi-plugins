@@ -39,3 +39,9 @@ SimpleBoilLogic:
   api: 3.0
   author: Luke Mullan
   repo_url: https://github.com/jalim/SimpleBoilLogic.git
+
+BlynkConnector:
+  description: Connect your brewing controller to Blynk App - www.Blynk.cc
+  api: 3.0
+  author: Joe Alloway
+  repo_url: https://github.com/IndyJoeA/cbpi_BlynkPlugin.git
