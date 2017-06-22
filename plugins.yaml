@@ -57,3 +57,17 @@ GembirdUSBActor:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-GembridUSB.git
+
+Mod_PWM:
+  description: This is an add on for the CraftBeerPi 3 that is a modded form of the GPIOPWM. This Pugin makes it possible to run the Mod_PWM_Logic that adds power reduction and power ramp up to the GPIOPWM actor. Please set you heater actor the Mod_PWM and your kettle logic to Mod_PWM_Logic.
+  api: 3.0
+  author: Christopher Seesser
+  repo_url: https://github.com/seesser/Mod_PWM.git
+
+IFTTT-Notification:
+  description: IFTTT Push Notifications for Craftbeerpi
+  api: 3.0
+  author:  Luke Mullan
+  repo_url: https://github.com/jalim/IFTTT-Notifications.git
+ 
+
