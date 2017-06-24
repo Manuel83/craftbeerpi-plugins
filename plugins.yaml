@@ -75,3 +75,10 @@ Flowmeter:
   api: 3.0
   author:  Ola Wallin
   repo_url: https://github.com/nanab/Flowmeter.git  
+
+iSpindel:
+  description: iSpindel Hydrometer support. https://github.com/universam1/iSpindel
+  api: 3.0
+  author: Joe Alloway
+  repo_url: https://github.com/IndyJoeA/cbpi_iSpindelgit
+  
