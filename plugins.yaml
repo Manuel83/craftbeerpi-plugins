@@ -81,4 +81,9 @@ iSpindel:
   api: 3.0
   author: Joe Alloway
   repo_url: https://github.com/IndyJoeA/cbpi_iSpindel.git
-  
+
+Socket433MHz:
+  description: BETA - 433MHz Socket Actor Plugin. Switch 433MHz sockets
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-socket433mhz.git
