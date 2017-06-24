@@ -69,5 +69,9 @@ IFTTT-Notification:
   api: 3.0
   author:  Luke Mullan
   repo_url: https://github.com/jalim/IFTTT-Notifications.git
- 
-
+  
+Flowmeter:
+  description: Flowmeter support for CraftBeerpi
+  api: 3.0
+  author:  Ola Wallin
+  repo_url: https://github.com/nanab/Flowmeter.git  
