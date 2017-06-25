@@ -87,3 +87,10 @@ Socket433MHz:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-socket433mhz.git
+
+PiFaceActor:
+  description: BETA - PiFace Support
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-pifaceactor.git
+ 
