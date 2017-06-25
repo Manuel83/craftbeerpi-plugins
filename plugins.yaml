@@ -94,3 +94,8 @@ PiFaceActor:
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-pifaceactor.git
  
+HendiControl:
+  description: Hendi Induction Cooker Controller
+  api: 3.0
+  author: Anders Holmström
+  repo_url: https://github.com/AHm74/hendictrl.git
