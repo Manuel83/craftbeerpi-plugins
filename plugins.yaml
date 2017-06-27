@@ -99,3 +99,15 @@ HendiControl:
   api: 3.0
   author: Anders Holmström
   repo_url: https://github.com/AHm74/hendictrl.git
+
+PIDAutoTune:
+  description: PIDAutoTune Plugin to find the pefect PID Parameters
+  api: 3.0
+  author: Joe Alloway
+  repo_url: https://github.com/IndyJoeA/cbpi_PIDAutoTune.git
+
+PushoverNotification:
+  description: Forward notifications to Pushover
+  api: 3.0
+  author: Luke Mullan
+  repo_url: https://github.com/jalim/cbpi-Pushover.git
