@@ -118,8 +118,4 @@ GPIOCompressor:
   author: Carl Allen
   repo_url: https://github.com/carlallen/cbpi_GPIOCompressor.git  
 
-PT100Sensor:
-  description: This is a simple sensor for craftbeerpi which uses a max31865 chip to run pt100 probes.
-  api: 3.0
-  author: Joe Pearce
-  repo_url: https://github.com/thegreathoe/cbpi-pt100-sensor.git
+
