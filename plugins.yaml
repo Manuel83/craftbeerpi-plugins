@@ -111,3 +111,15 @@ PushoverNotification:
   api: 3.0
   author: Luke Mullan
   repo_url: https://github.com/jalim/cbpi-Pushover.git
+
+GPIOCompressor:
+  description: This plugin adds Actors for controlling compressors (like refridgerators/freezers). To prevent damage to the compressor, you should not turn the compressor on and off repeatedly. It's best to have a delay between cycles. This actor allows for that delay
+  api: 3.0
+  author: Carl Allen
+  repo_url: https://github.com/carlallen/cbpi_GPIOCompressor.git  
+
+PT100Sensor:
+  description: This is a simple sensor for craftbeerpi which uses a max31865 chip to run pt100 probes.
+  api: 3.0
+  author: Joe Pearce
+  repo_url: https://github.com/thegreathoe/cbpi-pt100-sensor.git
