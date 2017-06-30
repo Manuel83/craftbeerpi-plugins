@@ -123,3 +123,9 @@ PT100Sensor:
   api: 3.0
   author: Joe Pearce
   repo_url: https://github.com/thegreathoe/cbpi-pt100-sensor.git
+  
+LCDDisplay:
+  description: With this add-on you can display your Brewing steps temperatures on a 20x4 i2c LCD Display. The script will loop thru your kettles and display the target and current temperatur. If now brewing process is running it will show Brewery name and Date/Time
+  api: 3.0
+  author: Remo Breitenmoser
+  repo_url: https://github.com/breiti78/craftbeerpiLCD.git  
