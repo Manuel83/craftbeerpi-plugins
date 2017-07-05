@@ -128,4 +128,11 @@ LCDDisplay:
   description: With this add-on you can display your Brewing steps temperatures on a 20x4 i2c LCD Display. The script will loop thru your kettles and display the target and current temperatur. If now brewing process is running it will show Brewery name and Date/Time
   api: 3.0
   author: Remo Breitenmoser
-  repo_url: https://github.com/breiti78/craftbeerpiLCD.git  
+  repo_url: https://github.com/breiti78/craftbeerpiLCD.git 
+  
+AdvancedOvershootKettleLogic:
+  description: Advanced Overshoot Logic 
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-overshoot-advanced.git 
+  
