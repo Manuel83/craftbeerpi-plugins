@@ -135,4 +135,9 @@ AdvancedOvershootKettleLogic:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-overshoot-advanced.git 
-  
+
+ToggleStep:
+  description: This is a very simple plugin that adds a Step to CraftBeerPi called ToggleStep. This step will turn on, turn off, or set the power on any actor, and then immediately continue with the next step. This is useful if you have a need to turn something on like a pump, but then continue execution of other steps without turning that device back off. Or you could turn something on and set the power, and then use another ToggleStep later to turn it back off.
+  api: 3.0
+  author: Joe Alloway
+  repo_url: https://github.com/IndyJoeA/cbpi_ToggleStep.git
