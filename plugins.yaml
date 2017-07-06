@@ -143,7 +143,7 @@ ToggleStep:
   repo_url: https://github.com/IndyJoeA/cbpi_ToggleStep.git
 
 PIDBoil:
-  description: This is a very simple plugin that adds a Step to CraftBeerPi called ToggleStep. This step will turn on, turn off, or set the power on any actor, and then immediately continue with the next step. This is useful if you have a need to turn something on like a pump, but then continue execution of other steps without turning that device back off. Or you could turn something on and set the power, and then use another ToggleStep later to turn it back off.
+  description: If the target Temperature is above a confgurable threshold the PID will be ignord and heater is swtiched on constandtly. This is helpflul if you use the same kettle for mashing and boiling
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-pidboil.git
