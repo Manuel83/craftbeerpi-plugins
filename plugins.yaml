@@ -147,3 +147,10 @@ PIDBoil:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-pidboil.git
+
+ActorGroups:
+  description: With this plugin you can create both Actor Groups and Sensor Groups. When you group actors together, a single group will turn on, turn off, or set power on all actors at the same time. When you group sensors together, a single group will show the average of the sensors within that group. You can even create groups where the members of that group are other groups.
+  api: 3.0
+  author: Joe Alloway
+  repo_url: https://github.com/IndyJoeA/cbpi_Groups.git
+
