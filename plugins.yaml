@@ -154,3 +154,9 @@ Groups:
   author: Joe Alloway
   repo_url: https://github.com/IndyJoeA/cbpi_Groups.git
 
+HTTPActor:
+  description: The HTTPActor plugin allows CraftBeerPi to send commands to any device that accepts HTTP requests so that devices can be controlled remotely. It can be configured to communicate with any device where the HTTP API is known, whether local or internet based.
+  api: 3.0
+  author: Joe Alloway
+  repo_url: https://github.com/IndyJoeA/cbpi_HTTPActor.git
+
