@@ -160,3 +160,14 @@ HTTPActor:
   author: Joe Alloway
   repo_url: https://github.com/IndyJoeA/cbpi_HTTPActor.git
 
+BrewPiSSR:
+  description: With this add-on you can use BrewPi's SSR control board (1-wire based) with CraftBeerPi.
+  api: 3.0
+  author: Jacobus de Waal
+  repo_url: https://github.com/cow77/cbpi_BrewPi_SSR.git
+
+BrewPiValve:
+  description: With this add-on you can use BrewPi's Valve control board (1-wire based) with CraftBeerPi.
+  api: 3.0
+  author: Jacobus de Waal
+  repo_url: https://github.com/cow77/cbpi_BrewPi_Valve.git
