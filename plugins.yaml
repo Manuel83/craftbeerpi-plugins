@@ -160,3 +160,9 @@ HTTPActor:
   author: Joe Alloway
   repo_url: https://github.com/IndyJoeA/cbpi_HTTPActor.git
 
+TiltHydrometerPlugin:
+  description: Allows your Tilt digital hydrometer to send data to CraftBeerPi 3.0, such as the current temperature and gravity readings. The plugin allows you to create multiple sensors, each of which is associated with a different data type that the Tilt is capturing, so that you can use these sensors as you would any other sensor in CraftBeerPi. You can also use multiple Tilt devices for different fermentation chambers at the same time. See below for setup instructions and some screenshots of the configuration options.
+  api: 3.0
+  author: Joe Alloway
+  repo_url: https://github.com/IndyJoeA/cbpi_Tilt.git
+
