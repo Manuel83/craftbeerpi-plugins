@@ -166,3 +166,8 @@ TiltHydrometerPlugin:
   author: Joe Alloway
   repo_url: https://github.com/IndyJoeA/cbpi_Tilt.git
 
+SystemTemp:
+  description: This adds a new sensor type SystemTemp sensor which reports the system temp from your raspberry pi
+  api: 3.0
+  author: Carl Allen
+  repo_url: https://github.com/carlallen/cbpi_SystemTemp.git
