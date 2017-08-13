@@ -171,3 +171,9 @@ SystemTemp:
   api: 3.0
   author: Carl Allen
   repo_url: https://github.com/carlallen/cbpi_SystemTemp.git
+
+SwitchSensorMashStep:
+  description: This is a very simple plugin that adds a second temperature sensor to the MashStep. This step set the kettle temperature based on the sensor previously assigned to the kettle and turn on a secondary actor (ex. pump, etc.). Then the step timer will not start until the secondary sensor value is equal to the kettle sensor value. This is would be useful for a HERMES or similiar system in which you are not directly heating your mash or you are not directly heating your mash with a high-powered heat source.
+  api: 3.0
+  author: Ian Colville
+  repo_url: https://github.com/swimIan/SwitchSensorMashStep.git
