@@ -177,3 +177,10 @@ SwitchSensorMashStep:
   api: 3.0
   author: Ian Colville
   repo_url: https://github.com/swimIan/SwitchSensorMashStep.git
+
+GPIOSystem:
+  description: This plugin writes to native system files to control GPIO output (rather than relying on RPi.GPIO), allowing it to be used on non-Pi based setups.
+  api: 3.0
+  author: Peter Marinec
+  repo_url: https://github.com/chiefwigms/GPIOSystem.git
+ 
