@@ -189,3 +189,10 @@ MQTTPlugin:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-mqtt.git
+
+HTTPAuth:
+  description: This plugin password protects your entire CraftBeerPi installation. This is a must have if you want to make your installation globally accessible.
+  api: 3.0
+  author: Carl Allen
+  repo_url: https://github.com/carlallen/cbpi_HTTPAuth.git
+
