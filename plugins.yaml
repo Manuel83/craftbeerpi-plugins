@@ -196,3 +196,20 @@ HTTPAuth:
   author: Carl Allen
   repo_url: https://github.com/carlallen/cbpi_HTTPAuth.git
 
+OWFSTemperaturePlugin:
+  description: temperature plugin for cbpi. Using owfs.
+  api: 3.0
+  author: Co de Waal
+  repo_url: https://github.com/cow77/cbpi_owfs_Temp.git
+
+BrewPi_SSR:
+  description: This is the code for a BrewPi plugin for the CraftBeerPi brewing/fermentation controller to make it possible to use BrewPi SSR's. This are 1-wire based SSR-controllers. Normally connected using the "w1-" file based 1-wire software of the pi, but also by connecting using a i2c-hub (The 1 Wire Pi Plus from AB Electronics UK). This creates a more reliable 1-wire infrastructure incase a larger network is needed. It then use owfs and pyowfs.
+  api: 3.0
+  author: Co de Waal
+  repo_url: https://github.com/cow77/cbpi_BrewPi_SSR.git
+
+BrewPi_Valve:
+  description: This is the code for a BrewPi Valve-controller plugin for the CraftBeerPi brewing/fermentation controller to make it possible to use BrewPi Valves.
+  api: 3.0
+  author: Co de Waal
+  repo_url: https://github.com/cow77/cbpi_BrewPi_Valve.git
