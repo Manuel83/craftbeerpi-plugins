@@ -213,3 +213,9 @@ BrewPi_Valve:
   api: 3.0
   author: Co de Waal
   repo_url: https://github.com/cow77/cbpi_BrewPi_Valve.git
+
+HTTPActor_CompressorDelay:
+  description: The HTTPActor with Compressor Delay plugin allows CraftBeerPi to send commands to any device that accepts HTTP requests so that devices can be controlled remotely, and can be configured with a delay timer. It can be configured to communicate with any device where the HTTP API is known, whether local or internet based. The delay ensures that you can use this with Wifi sockets connected to compressor based cooling devices.
+  api: 3.0
+  author: Daniel McInteer
+  repo_url: https://github.com/wgtndan/cbpi_HTTPActor_CompressorDelay.git
