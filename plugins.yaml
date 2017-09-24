@@ -219,3 +219,10 @@ HTTPActor_CompressorDelay:
   api: 3.0
   author: Daniel McInteer
   repo_url: https://github.com/wgtndan/cbpi_HTTPActor_CompressorDelay.git
+
+OneWireWithFilter:
+  description: This is basically the default one wire senore plugin but with two additional config parameter to filter wrong values
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-onewire-with-filter.git
+
