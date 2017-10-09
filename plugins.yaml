@@ -226,3 +226,8 @@ OneWireWithFilter:
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-onewire-with-filter.git
 
+TPLinkPlugin:
+  description: The TPLinkPlugin allows CraftBeerPi to use the TPLink Wi-Fi Smart Plugs
+  api: 3.0
+  author: Atle Ravndal
+  repo_url: https://github.com/aravndal/TPLinkPlug.git
