@@ -231,3 +231,9 @@ TPLinkPlugin:
   api: 3.0
   author: Atle Ravndal
   repo_url: https://github.com/aravndal/TPLinkPlug.git
+  
+AdafruitDHT_Plugin:
+  description: Under Development - AdafruitDHT Plugin for combind humidity and temperature sensor
+  api: 3.0
+  author: Manuel Fritsch 
+  repo_url: https://github.com/Manuel83/cbpi-Adafruit_DHT.git  
