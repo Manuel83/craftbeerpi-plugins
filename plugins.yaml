@@ -233,7 +233,13 @@ TPLinkPlugin:
   repo_url: https://github.com/aravndal/TPLinkPlug.git
   
 AdafruitDHT_Plugin:
-  description: Under Development - AdafruitDHT Plugin for combind humidity and temperature sensor
+  description: AdafruitDHT Plugin for combind humidity and temperature sensor
   api: 3.0
   author: Manuel Fritsch 
   repo_url: https://github.com/Manuel83/cbpi-Adafruit_DHT.git  
+
+ThingSpeak:
+  description: The ThingSpeak Plugin allows CraftBeerPi 3.0 to send sensor data to ThingSpeak.com
+  api: 3.0
+  author: Atle Ravndal
+  repo_url: https://github.com/aravndal/ThingSpeak.git
