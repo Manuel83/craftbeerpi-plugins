@@ -243,3 +243,9 @@ ThingSpeak:
   api: 3.0
   author: Atle Ravndal
   repo_url: https://github.com/aravndal/ThingSpeak.git
+
+TimedAgitator:
+  description: This simple plugin allows you to switch on and off a agitator by timer. 
+  api: 3.0
+  author: Miracel Vip
+  repo_url: https://github.com/MiracelVip/cbpi-TimedAgitator.git
