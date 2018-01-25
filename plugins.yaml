@@ -255,4 +255,9 @@ Silvercrest433Mhz:
   api: 3.0
   author: Clemens Krack
   repo_url: https://github.com/ckrack/cbpi-433silvercrest.git
-  
+
+BoilStepWithHopDroper:
+  description: A custom boil step with hop dropper
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-boil-hopdropper.git
