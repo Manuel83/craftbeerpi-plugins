@@ -261,3 +261,9 @@ BoilStepWithHopDroper:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-boil-hopdropper.git
+
+DependentActor:
+  description: This CraftBeerPi 3.0 plugin provides a new actor type called DependentActor. DependentActors are containers for existing Base Actors, which will only power ON if their Actor Dependency is in the correct state. The Actor Dependency must be ON if it is set as a prerequisite, and OFF if it is set as a restriction.
+  api: 3.0
+  author: Justin Angevaare
+  repo_url: https://github.com/jangevaare/cbpi-DependentActor.git
