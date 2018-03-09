@@ -267,3 +267,9 @@ DependentActor:
   api: 3.0
   author: Justin Angevaare
   repo_url: https://github.com/jangevaare/cbpi-DependentActor.git
+
+CascadePID:
+  description: This CraftBeerPi 3.0 plugin provides a new KettleController type called CascadePID. The main purpose of this plugin is for sophisticated mash temperature control within popular RIMS and HERMS-based breweries, however it may have additional purposes.
+  api: 3.0
+  author: Justin Angevaare
+  repo_url: https://github.com/jangevaare/cbpi-CascadePID.git
