@@ -291,3 +291,9 @@ OnAtStartup:
   api: 3.0
   author: Justin Angevaare
   repo_url: https://github.com/jangevaare/cbpi-OnAtStartup.git
+
+PIDSmartBoilWithPump:
+  description: This plugin uses the PID alogrithm during mash phase, then once boiling temperature is called for 100% power, and once a boiling threshold is reached scales down to a configurable value. This plugin also controls the pump for you automatically, running the pump during mash with configurable rests, then running the pump during boil ramp up until a configurable threshold is reached.
+  api: 3.0
+  author: Christopher Speck
+  repo_url: https://github.com/cgspeck/cbpi-pidsmartboil-withpump.git
