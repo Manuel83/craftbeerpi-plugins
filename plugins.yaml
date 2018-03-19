@@ -275,8 +275,13 @@ CascadePID:
   repo_url: https://github.com/jangevaare/cbpi-CascadePID.git
 
 OneWireAdvanced:
-  description: "This CraftBeerPi 3.0 plugin provides a new sensor type called OneWireAdvanced. This plugin attempts to provide even more control over DS18B20 temperature readings in CraftBeerPi. It allows setting of: sensor bias, low and high value filters, update interval, and an option for alerts when values are filtered."
+  description: "This CraftBeerPi 3.0 plugin provides a new sensor type called OneWireAdvanced. This plugin attempts to provide even more control over DS18B20 temperature readings in CraftBeerPi. It allows setting of: sensor bias, sensor precision, exponential moving average, low and high value filters, update interval, and alert options."
   api: 3.0
   author: Justin Angevaare
   repo_url: https://github.com/jangevaare/cbpi-OneWireAdvanced.git
   
+OnAtStartup:
+  description: "This CraftBeerPi 3.0 plugin turns the selected actor on with it's initialization with a specified power level. Nothing more, nothing less. It is intended to be hidden from the dashboard. May be used to automatically turn on a panel fan controlled by a GPIO, for instance."
+  api: 3.0
+  author: Justin Angevaare
+  repo_url: https://github.com/jangevaare/cbpi-OnAtStartup.git
