@@ -148,12 +148,6 @@ PIDBoil:
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-pidboil.git
 
-PIDSmartBoilwithPump:
-  description: Designed for 1v breweries, PID control and pump cycling through mash, controllable power during boil.
-  api: 3.0
-  author: Chris Speck
-  repo_url: https://github.com/cgspeck/cbpi-pidsmartboil-withpump.git
-
 Groups:
   description: With this plugin you can create both Actor Groups and Sensor Groups. When you group actors together, a single group will turn on, turn off, or set power on all actors at the same time. When you group sensors together, a single group will show the average of the sensors within that group. You can even create groups where the members of that group are other groups.
   api: 3.0
