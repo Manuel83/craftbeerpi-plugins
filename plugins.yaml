@@ -125,10 +125,10 @@ PT100Sensor:
   repo_url: https://github.com/thegreathoe/cbpi-pt100-sensor.git
   
 LCDDisplay:
-  description: With this add-on you can display your Brewing steps temperatures on a 20x4 i2c LCD Display. The script will loop thru your kettles and display the target and current temperatur. If now brewing process is running it will show Brewery name and Date/Time
+  description: With this add-on you can display your Brewing steps temperatures on a 20x4 i2c LCD Display. The script will loop thru your kettles or fermenters and display the target and current temperatur. If no brewing process is running it will show Brewery name, IP address and Date/Time
   api: 3.0
-  author: Remo Breitenmoser
-  repo_url: https://github.com/breiti78/craftbeerpiLCD.git 
+  author: Remo Breitenmoser and Jan Battermann
+  repo_url: https://github.com/JamFfm/craftbeerpiLCD.git
   
 AdvancedOvershootKettleLogic:
   description: Advanced Overshoot Logic 
@@ -291,3 +291,9 @@ PIDSmartBoilWithPump:
   api: 3.0
   author: Christopher Speck
   repo_url: https://github.com/cgspeck/cbpi-pidsmartboil-withpump.git
+
+TFTDisplay:
+  description: With this add-on you can display a temperature graph of a kettle (its sensor) or of a fermenter on a 240 x 320 TFT SPI display. It is based on the ILI9341 controller.
+  api: 3.0
+  author: Jan Battermann
+  repo_url: https://github.com/JamFfm/TFTDisplay.git
