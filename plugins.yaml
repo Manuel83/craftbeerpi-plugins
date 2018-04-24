@@ -127,7 +127,7 @@ PT100Sensor:
 LCDDisplay:
   description: With this add-on you can display your Brewing steps temperatures on a 20x4 i2c LCD Display. The script will loop thru your kettles or fermenters and display the target and current temperatur. If no brewing process is running it will show Brewery name, IP address and Date/Time
   api: 3.0
-  author: Remo Breitenmoser and Jan Battermann
+  author: Jan Battermann and Remo Breitenmoser
   repo_url: https://github.com/JamFfm/craftbeerpiLCD.git
   
 AdvancedOvershootKettleLogic:
