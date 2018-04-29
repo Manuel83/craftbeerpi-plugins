@@ -297,3 +297,9 @@ TFTDisplay:
   api: 3.0
   author: Jan Battermann
   repo_url: https://github.com/JamFfm/TFTDisplay.git
+  
+Generic433MHzSocket:
+  description: Controls generic 433MHz sockets with flexible configuration 
+  api: 3.0
+  author: Filipe Matos
+  repo_url: https://github.com/filipematos95/cbpi-generic-socket433
