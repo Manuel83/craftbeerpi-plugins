@@ -303,3 +303,9 @@ Generic433MHzSocket:
   api: 3.0
   author: Filipe Matos
   repo_url: https://github.com/filipematos95/cbpi-generic-socket433
+
+CBPi-Wii:
+  description: This plugin extends the CraftBeerPi software by a sensor in order to monitor weight changes (KG/LBS) using a Nintento Wii Balance Board. 
+  api: 3.0
+  author: Frederick-Claud Dimmer
+  repo_url: https://github.com/peakMeissner/cbpi-Wii
