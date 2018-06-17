@@ -309,3 +309,9 @@ CBPi-Wii:
   api: 3.0
   author: Frederick-Claud Dimmer
   repo_url: https://github.com/peakMeissner/cbpi-Wii
+  
+PHMeasure:
+  description: With this add-on you can display pH values and the coresponding voltage via a MCP3008 analog/digital converter
+  api: 3.0
+  author: Jan Battermann
+  repo_url: https://github.com/JamFfm/PHMeasure.git
