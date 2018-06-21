@@ -315,3 +315,9 @@ PHMeasure:
   api: 3.0
   author: Jan Battermann
   repo_url: https://github.com/JamFfm/PHMeasure.git
+
+GlycolChillerController:
+  description: GlycolChillerController which just controls a chiller. 
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/glycol_chiller_controller.git
