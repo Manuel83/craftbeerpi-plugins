@@ -321,3 +321,16 @@ GlycolChillerController:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/glycol_chiller_controller.git
+
+
+DynDns:
+  description: DynDns
+  api: 3.0
+  author: MiracelVip
+  repo_url: https://github.com/MiracelVip/cbpi-DynDns.git
+
+ExtendedMenu:
+  description: ExtendedMenu
+  api: 3.0
+  author: MiracelVip
+  repo_url: https://github.com/MiracelVip/cbpi-ExtendedMenu.git
