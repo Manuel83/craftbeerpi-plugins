@@ -256,6 +256,12 @@ Silvercrest433Mhz:
   author: Clemens Krack
   repo_url: https://github.com/ckrack/cbpi-433silvercrest.git
 
+BoilStepWithCountdownTimers:
+  description: Boil step with hop additions that countdown to end of boil plus extra reminders (e.g prep yeast, prep fermenter, etc).
+  api: 3.0
+  author: Christopher Speck
+  repo_url: https://github.com/cgspeck/cbpi-boilstep-with-countdown.git
+
 BoilStepWithHopDroper:
   description: A custom boil step with hop dropper
   api: 3.0
