@@ -10,6 +10,12 @@ AmazonAlexaPlugin:
   author: CraftBeerPi
   repo_url: https://github.com/craftbeerpi/alexa.git
 
+AlarmClock:
+  description: Pause process until a set time, e.g. set up night before to brew in the morning.
+  api: 3.0
+  author: Christopher Speck
+  repo_url: https://github.com/cgspeck/cbpi-alarm-clock.git
+
 HTTPSensor:
   description: HTTP Sensor Endpoint for CraftBeerPi to allow other service to push data via HTTP to CraftBeerPi
   api: 3.0
@@ -255,6 +261,12 @@ Silvercrest433Mhz:
   api: 3.0
   author: Clemens Krack
   repo_url: https://github.com/ckrack/cbpi-433silvercrest.git
+
+BoilStepWithCountdownTimers:
+  description: Boil step with hop additions that countdown to end of boil plus extra reminders (e.g prep yeast, prep fermenter, etc).
+  api: 3.0
+  author: Christopher Speck
+  repo_url: https://github.com/cgspeck/cbpi-boilstep-with-countdown.git
 
 BoilStepWithHopDroper:
   description: A custom boil step with hop dropper
