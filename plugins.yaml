@@ -346,3 +346,10 @@ ExtendedMenu:
   api: 3.0
   author: MiracelVip
   repo_url: https://github.com/MiracelVip/cbpi-ExtendedMenu.git
+
+GPIObutton:
+  description: This is a CraftBeerPi 3.0 sensor that allows you to have up to 4 physical buttons in order to accept GPIO button press after which it performs an API call.
+  api: 3.0
+  author: Jan Haudhuyze
+  repo_url: https://github.com/jhhbe/cbpi.git
+
