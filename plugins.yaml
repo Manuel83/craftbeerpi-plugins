@@ -352,4 +352,9 @@ GPIObutton:
   api: 3.0
   author: Jan Haudhuyze
   repo_url: https://github.com/jhhbe/cbpi.git
-
+  
+SayItPlugin:
+  description: A simple notification reader for for CraftBeerPi3
+  api: 3.0
+  author: Lawrence N Wagy
+  repo_url: https://github.com/lwagy/SayIt.git
