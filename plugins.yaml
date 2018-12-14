@@ -358,3 +358,9 @@ SayItPlugin:
   api: 3.0
   author: Lawrence N Wagy
   repo_url: https://github.com/lwagy/SayIt.git
+
+BrewersFriend:
+  description: A simple notification reader for for CraftBeerPi3
+  api: 3.0
+  author: Carl Allen
+  repo_url: https://github.com/carlallen/cbpi_BrewersFriend.git
