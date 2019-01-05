@@ -334,7 +334,6 @@ GlycolChillerController:
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/glycol_chiller_controller.git
 
-
 DynDns:
   description: DynDns
   api: 3.0
@@ -364,3 +363,9 @@ BrewersFriend:
   api: 3.0
   author: Carl Allen
   repo_url: https://github.com/carlallen/cbpi_BrewersFriend.git
+  
+Nexa433:
+  description: Plugin for HomeEasy/Nexa 433 mhz self-learning power sockets
+  api: 3.0
+  author: Michael Mackiewicz
+  repo_url: https://github.com/Lai1337/cbpi-homeeasy_nexa433.git
