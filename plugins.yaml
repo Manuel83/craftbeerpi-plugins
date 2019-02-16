@@ -369,3 +369,9 @@ Nexa433:
   api: 3.0
   author: Michael Mackiewicz
   repo_url: https://github.com/Lai1337/cbpi-homeeasy_nexa433.git
+
+CBPiPlaato:
+  description: Plaato Plugin for Craftbeerpi3
+  api: 3.0
+  author: Nick Sharp
+  repo_url: https://github.com/sharpn/cbpi-plaato.git
