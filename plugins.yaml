@@ -375,3 +375,9 @@ CBPiPlaato:
   api: 3.0
   author: Nick Sharp
   repo_url: https://github.com/sharpn/cbpi-plaato.git
+
+FermentWifiPlugin:
+  description: FermentWifi Plugin
+  api: 3.0
+  author: Tiago C. Lima de Castro
+  repo_url: https://github.com/tiagoclc/cbpi_FermentWifi.git
