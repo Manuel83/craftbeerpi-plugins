@@ -280,11 +280,11 @@ DependentActor:
   author: Justin Angevaare
   repo_url: https://github.com/jangevaare/cbpi-DependentActor.git
 
-CascadePID:
-  description: This CraftBeerPi 3.0 plugin provides a new KettleController type called CascadePID. The main purpose of this plugin is for sophisticated mash temperature control within popular RIMS and HERMS-based breweries, however it may have additional purposes.
+CascadeControl:
+  description: Formally known as CascadePID, this CraftBeerPi 3.0 plugin provides several new kettle types: AdvancedPID, AdvancedHysteresis, CascadePID, and CascadeHysteresis. This plugin has been motivated by sophisticated mash temperature control within popular RIMS and HERMS breweries, however it has other uses. Read the README.
   api: 3.0
   author: Justin Angevaare
-  repo_url: https://github.com/jangevaare/cbpi-CascadePID.git
+  repo_url: https://github.com/jangevaare/cbpi-CascadeControl.git
 
 OneWireAdvanced:
   description: "This CraftBeerPi 3.0 plugin provides a new sensor type called OneWireAdvanced. This plugin attempts to provide even more control over DS18B20 temperature readings in CraftBeerPi. It allows setting of: sensor bias, sensor precision, exponential moving average, low and high value filters, update interval, and alert options."
