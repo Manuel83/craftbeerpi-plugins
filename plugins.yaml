@@ -381,3 +381,9 @@ FermentWifiPlugin:
   api: 3.0
   author: Tiago Castro
   repo_url: https://github.com/tiagoclc/cbpi_FermentWifi.git
+  
+TelegramPushNotifications:
+  description: This allows you to send any messages that appear in Craftbeerpi to Telegram
+  api: 3.0
+  author: Nikita Shatunov
+  repo_url: https://github.com/ShintoTuna/cbpi-telegram.git
