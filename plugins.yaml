@@ -387,3 +387,9 @@ TelegramPushNotifications:
   api: 3.0
   author: Nikita Shatunov
   repo_url: https://github.com/ShintoTuna/cbpi-telegram.git
+
+RectifyPlugin:
+  description: This plugin allows you to use CraftBeerPi to automate the process of rectification and distillation.
+  api: 3.0
+  author: saniaxxx
+  repo_url: https://github.com/saniaxxx/RectifyPlugin.git
