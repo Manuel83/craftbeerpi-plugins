@@ -389,7 +389,14 @@ TelegramPushNotifications:
   repo_url: https://github.com/ShintoTuna/cbpi-telegram.git
 
 RectifyPlugin:
-  description: This plugin allows you to use CraftBeerPi to automate the process of rectification and distillation.
+  description: This plugin allows you to use CraftBeerPi to automate the process of rectification and distillation
   api: 3.0
   author: saniaxxx
   repo_url: https://github.com/saniaxxx/RectifyPlugin.git
+
+IFTTTWebHookActor:
+  description: This actor can be used to switch any of the smart switches that the IFTTT platform allows
+  api: 3.0
+  author: Nick Sharp
+  repo_url: https://github.com/sharpn/cbpi-iftttwebhookactor.git
+  
