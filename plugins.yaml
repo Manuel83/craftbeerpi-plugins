@@ -399,4 +399,9 @@ IFTTTWebHookActor:
   api: 3.0
   author: Nick Sharp
   repo_url: https://github.com/sharpn/cbpi-iftttwebhookactor.git
-  
+
+Whitelist:
+  description: This plugin allows you to customise the ips that can access the cbpi ui
+  api: 3.0
+  author: Nick Sharp
+  repo_url: https://github.com/sharpn/cbpi-whitelist.git
