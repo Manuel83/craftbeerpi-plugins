@@ -3,3 +3,8 @@ SampleActor:
   api: 4.0
   author: CraftBeerPi
   repo_url: https://github.com/craftbeerpi/sample_actor
+SampleActor2:
+  description: A sample Actor2 for CraftBeerPi
+  api: 4.0
+  author: CraftBeerPi
+  repo_url: https://github.com/craftbeerpi/sample_actor
