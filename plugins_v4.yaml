@@ -1,1 +1,5 @@
-
+SampleActor:
+  description: A sample Actor for CraftBeerPi
+  api: 4.0
+  author: CraftBeerPi
+  repo_url: https://github.com/craftbeerpi/sample_actor
