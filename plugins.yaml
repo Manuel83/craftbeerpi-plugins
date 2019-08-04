@@ -405,3 +405,9 @@ Whitelist:
   api: 3.0
   author: Nick Sharp
   repo_url: https://github.com/sharpn/cbpi-whitelist.git
+
+FermenterHysteresisWithThreshold.:
+  description: CraftBeerPi Fermenter Hysteresis with min and max threashold for switch off the logic
+  api: 3.0
+  author: CraftBeerPi
+  repo_url: https://github.com/Manuel83/cbpi-fermenter-hysteresis-threshold.git
