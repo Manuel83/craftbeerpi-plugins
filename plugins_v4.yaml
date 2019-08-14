@@ -1,13 +1,7 @@
-SampleActor:
+cbpi4-ui-plugin:
   description: A sample Actor for CraftBeerPi
   api: 4.0
   author: CraftBeerPi
-  pip: requests
+  pip: cbpi4-ui-plugin
   repo_url: https://github.com/craftbeerpi/sample_actor
 
-SampleActor2:
-  description: A sample Actor2 for CraftBeerPi
-  api: 4.0
-  author: CraftBeerPi
-  pip: requests
-  repo_url: https://github.com/craftbeerpi/sample_actor
