@@ -411,3 +411,9 @@ FermenterHysteresisWithThreshold:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/Manuel83/cbpi-fermenter-hysteresis-threshold.git
+  
+ModMeshStep:
+  description: This plugin is made for CraftBeerPi3 to extend protective capabilities in regards to a problem which could occur with SSR when they fail
+  api: 3.0
+  author: Miha Zivkovic
+  repo_url: https://github.com/exoticatom/ModMashStep.git
