@@ -417,3 +417,9 @@ ModMeshStep:
   api: 3.0
   author: Miha Zivkovic
   repo_url: https://github.com/exoticatom/ModMashStep.git
+
+NextionDisplay:
+  description: Connect a Nextion 3.5" display, shows charts of selcted kettle/fermenter, watch up to 4 kettle at once
+  api: 3.0
+  author: Jan Battermann
+  repo_url: https://github.com/JamFfm/NEXTIONDisplay.git
