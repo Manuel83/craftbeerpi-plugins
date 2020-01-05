@@ -423,3 +423,9 @@ NextionDisplay:
   api: 3.0
   author: Jan Battermann
   repo_url: https://github.com/JamFfm/NEXTIONDisplay.git
+
+AutoStartFermenter:
+    description: Auto starts a list of fermenters when CBPi3 starts so that fermentation resumes where it left off before Pi restarts or power failures. 
+    api: 3.0
+    author: Joe Richards
+    repo_url: https://github.com/viyh/cbpi-autostart-fermenter
