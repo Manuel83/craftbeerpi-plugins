@@ -431,7 +431,7 @@ AutoStartFermenter:
     repo_url: https://github.com/viyh/cbpi-autostart-fermenter
 
 Brewers Chronicle:
-    description: This plug-in submits readings to Brewers Chronicle logs. Integrate an iSpindel or Tilt device to your BC profile and you can auto-control CBPi ferment temps with your own ferment schedule.
+    description: This plug-in submits readings to Brewers Chronicle logs. Integrate an iSpindel or Tilt device with your BC profile and you can auto-control CBPi ferment (and cold crash) temps with your own schedule.
     api: 3.0
     author: Angus Grant
     repo_url: https://github.com/angusgrantBC/cbpi_BrewersChronicle
