@@ -425,7 +425,13 @@ NextionDisplay:
   repo_url: https://github.com/JamFfm/NEXTIONDisplay.git
 
 AutoStartFermenter:
-    description: Auto starts a list of fermenters when CBPi3 starts so that fermentation resumes where it left off before Pi restarts or power failures. 
-    api: 3.0
-    author: Joe Richards
-    repo_url: https://github.com/viyh/cbpi-autostart-fermenter
+  description: Auto starts a list of fermenters when CBPi3 starts so that fermentation resumes where it left off before Pi restarts or power failures.
+  api: 3.0
+  author: Joe Richards
+  repo_url: https://github.com/viyh/cbpi-autostart-fermenter
+
+OneWireTweaks:
+  description: This provides a sensor OneWireTweaks that offers accurate calibration for DS18B20 sensor, sensor precision, exponential moving average, filter of high and low values and alert options. It is an improved version of now unmaintained OneWireAdvanced.
+  api: 3.0
+  author: Diogo Carvalho D'Ávila
+  repo_url: https://github.com/diogavila/cbpi-OneWireTweaks
