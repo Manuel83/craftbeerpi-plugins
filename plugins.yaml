@@ -194,7 +194,7 @@ MQTTPlugin:
   description: This plugins allows to connect to an MQTT Message broker to receive sensor data and invoke actors. Please see github how to install additional missing libs
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-mqtt.git
+  repo_url: https://github.com/jpgimenez/cbpi-mqtt.git
 
 HTTPAuth:
   description: This plugin password protects your entire CraftBeerPi installation. This is a must have if you want to make your installation globally accessible.
