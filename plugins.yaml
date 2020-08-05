@@ -2,181 +2,181 @@ SampleActor:
   description: A sample Actor for CraftBeerPi
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/craftbeerpi/sample_actor
+  repo_url: https://github.com/jpgimenez/sample_actor
 
 AmazonAlexaPlugin:
   description: Amazon Alexa Plugin. Control CraftBeerPi via Alexa Skill. See https://github.com/craftbeerpi/alexa for installation instructions
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/craftbeerpi/alexa.git
+  repo_url: https://github.com/jpgimenez/alexa.git
 
 AlarmClock:
   description: Pause process until a set time, e.g. set up night before to brew in the morning.
   api: 3.0
   author: Christopher Speck
-  repo_url: https://github.com/cgspeck/cbpi-alarm-clock.git
+  repo_url: https://github.com/jpgimenez/cbpi-alarm-clock.git
 
 HTTPSensor:
   description: HTTP Sensor Endpoint for CraftBeerPi to allow other service to push data via HTTP to CraftBeerPi
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/craftbeerpi/http_sensor.git
+  repo_url: https://github.com/jpgimenez/http_sensor.git
 
 PIDArduino:
   description: PID Logic proted from Arduino. 
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-PIDArduino.git  
+  repo_url: https://github.com/jpgimenez/cbpi-PIDArduino.git  
 
 PIDFermentationChamber:
   description: PID for Fermentation
   api: 3.0
   author: Carl Allen
-  repo_url: https://github.com/carlallen/cbpi_PIDFermentationChamber
+  repo_url: https://github.com/jpgimenez/cbpi_PIDFermentationChamber
 
 InvertPWM:
   description: Inverted Acgtor PWM
   api: 3.0
   author: Christopher Seesser
-  repo_url: https://github.com/seesser/InvertPWM
+  repo_url: https://github.com/jpgimenez/InvertPWM
 
 SimpleBoilLogic:
   description: Simple logic to set the heater power setting during the ramp up period and then have it scaled back to a boiling power setting.
   api: 3.0
   author: Luke Mullan
-  repo_url: https://github.com/jalim/SimpleBoilLogic.git
+  repo_url: https://github.com/jpgimenez/SimpleBoilLogic.git
 
 BlynkConnector:
   description: Connect your brewing controller to Blynk App - www.Blynk.cc
   api: 3.0
   author: Joe Alloway
-  repo_url: https://github.com/IndyJoeA/cbpi_BlynkPlugin.git
+  repo_url: https://github.com/jpgimenez/cbpi_BlynkPlugin.git
 
 WIFISocketActor:
   description: Connect Edimax wifi socket to CraftBeerPi
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-WIFISocket.git
+  repo_url: https://github.com/jpgimenez/cbpi-WIFISocket.git
   
 GembirdUSBActor:
   description: Connect Gembird USB socket to CraftBeerPi. Please read the documentation. Run 'apt-get install sispmctl' in a terminal window to install the missing libs.
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-GembridUSB.git
+  repo_url: https://github.com/jpgimenez/cbpi-GembridUSB.git
 
 Mod_PWM:
   description: This is an add on for the CraftBeerPi 3 that is a modded form of the GPIOPWM. This Pugin makes it possible to run the Mod_PWM_Logic that adds power reduction and power ramp up to the GPIOPWM actor. Please set you heater actor the Mod_PWM and your kettle logic to Mod_PWM_Logic.
   api: 3.0
   author: Christopher Seesser
-  repo_url: https://github.com/seesser/Mod_PWM.git
+  repo_url: https://github.com/jpgimenez/Mod_PWM.git
 
 IFTTT-Notification:
   description: IFTTT Push Notifications for Craftbeerpi
   api: 3.0
   author:  Luke Mullan
-  repo_url: https://github.com/jalim/IFTTT-Notifications.git
+  repo_url: https://github.com/jpgimenez/IFTTT-Notifications.git
   
 Flowmeter:
   description: Flowmeter support for CraftBeerpi
   api: 3.0
   author:  Ola Wallin
-  repo_url: https://github.com/nanab/Flowmeter.git  
+  repo_url: https://github.com/jpgimenez/Flowmeter.git  
 
 iSpindel:
   description: iSpindel Hydrometer support. https://github.com/universam1/iSpindel
   api: 3.0
   author: Joe Alloway
-  repo_url: https://github.com/IndyJoeA/cbpi_iSpindel.git
+  repo_url: https://github.com/jpgimenez/cbpi_iSpindel.git
 
 Socket433MHz:
   description: BETA - 433MHz Socket Actor Plugin. Switch 433MHz sockets
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-socket433mhz.git
+  repo_url: https://github.com/jpgimenez/cbpi-socket433mhz.git
 
 PiFaceActor:
   description: BETA - PiFace Support
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-pifaceactor.git
+  repo_url: https://github.com/jpgimenez/cbpi-pifaceactor.git
  
 HendiControl:
   description: Hendi Induction Cooker Controller
   api: 3.0
   author: Anders Holmström
-  repo_url: https://github.com/AHm74/hendictrl.git
+  repo_url: https://github.com/jpgimenez/hendictrl.git
 
 PIDAutoTune:
   description: PIDAutoTune Plugin to find the pefect PID Parameters
   api: 3.0
   author: Joe Alloway
-  repo_url: https://github.com/IndyJoeA/cbpi_PIDAutoTune.git
+  repo_url: https://github.com/jpgimenez/cbpi_PIDAutoTune.git
 
 PushoverNotification:
   description: Forward notifications to Pushover
   api: 3.0
   author: Luke Mullan
-  repo_url: https://github.com/jalim/cbpi-Pushover.git
+  repo_url: https://github.com/jpgimenez/cbpi-Pushover.git
 
 GPIOCompressor:
   description: This plugin adds Actors for controlling compressors (like refridgerators/freezers). To prevent damage to the compressor, you should not turn the compressor on and off repeatedly. It's best to have a delay between cycles. This actor allows for that delay
   api: 3.0
   author: Carl Allen
-  repo_url: https://github.com/carlallen/cbpi_GPIOCompressor.git  
+  repo_url: https://github.com/jpgimenez/cbpi_GPIOCompressor.git  
 
 PT100Sensor:
   description: This is a simple sensor for craftbeerpi which uses a max31865 chip to run pt100 probes.
   api: 3.0
   author: Joe Pearce
-  repo_url: https://github.com/thegreathoe/cbpi-pt100-sensor.git
+  repo_url: https://github.com/jpgimenez/cbpi-pt100-sensor.git
   
 LCDDisplay:
   description: With this add-on you can display your Brewing steps temperatures on a 20x4 i2c LCD Display. The script will loop thru your kettles or fermenters and display the target and current temperatur. If no brewing process is running it will show Brewery name, IP address and Date/Time
   api: 3.0
   author: Jan Battermann and Remo Breitenmoser
-  repo_url: https://github.com/JamFfm/craftbeerpiLCD.git
+  repo_url: https://github.com/jpgimenez/craftbeerpiLCD.git
   
 AdvancedOvershootKettleLogic:
   description: Advanced Overshoot Logic 
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-overshoot-advanced.git 
+  repo_url: https://github.com/jpgimenez/cbpi-overshoot-advanced.git 
 
 ToggleStep:
   description: This is a very simple plugin that adds a Step to CraftBeerPi called ToggleStep. This step will turn on, turn off, or set the power on any actor, and then immediately continue with the next step. This is useful if you have a need to turn something on like a pump, but then continue execution of other steps without turning that device back off. Or you could turn something on and set the power, and then use another ToggleStep later to turn it back off.
   api: 3.0
   author: Joe Alloway
-  repo_url: https://github.com/IndyJoeA/cbpi_ToggleStep.git
+  repo_url: https://github.com/jpgimenez/cbpi_ToggleStep.git
 
 PIDBoil:
   description: If the target Temperature is above a confgurable threshold the PID will be ignord and heater is swtiched on constandtly. This is helpflul if you use the same kettle for mashing and boiling
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-pidboil.git
+  repo_url: https://github.com/jpgimenez/cbpi-pidboil.git
 
 Groups:
   description: With this plugin you can create both Actor Groups and Sensor Groups. When you group actors together, a single group will turn on, turn off, or set power on all actors at the same time. When you group sensors together, a single group will show the average of the sensors within that group. You can even create groups where the members of that group are other groups.
   api: 3.0
   author: Joe Alloway
-  repo_url: https://github.com/IndyJoeA/cbpi_Groups.git
+  repo_url: https://github.com/jpgimenez/cbpi_Groups.git
 
 HTTPActor:
   description: The HTTPActor plugin allows CraftBeerPi to send commands to any device that accepts HTTP requests so that devices can be controlled remotely. It can be configured to communicate with any device where the HTTP API is known, whether local or internet based.
   api: 3.0
   author: Joe Alloway
-  repo_url: https://github.com/IndyJoeA/cbpi_HTTPActor.git
+  repo_url: https://github.com/jpgimenez/cbpi_HTTPActor.git
 
 TiltHydrometerPlugin:
   description: Allows your Tilt digital hydrometer to send data to CraftBeerPi 3.0, such as the current temperature and gravity readings. The plugin allows you to create multiple sensors, each of which is associated with a different data type that the Tilt is capturing, so that you can use these sensors as you would any other sensor in CraftBeerPi. You can also use multiple Tilt devices for different fermentation chambers at the same time. See below for setup instructions and some screenshots of the configuration options.
   api: 3.0
   author: Joe Alloway
-  repo_url: https://github.com/IndyJoeA/cbpi_Tilt.git
+  repo_url: https://github.com/jpgimenez/cbpi_Tilt.git
 
 SystemTemp:
   description: This adds a new sensor type SystemTemp sensor which reports the system temp from your raspberry pi
   api: 3.0
   author: Carl Allen
-  repo_url: https://github.com/carlallen/cbpi_SystemTemp.git
+  repo_url: https://github.com/jpgimenez/cbpi_SystemTemp.git
 
 SwitchSensorMashStep:
   description: This is a very simple plugin that adds a second temperature sensor to the MashStep. This step set the kettle temperature based on the sensor previously assigned to the kettle and turn on a secondary actor (ex. pump, etc.). Then the step timer will not start until the secondary sensor value is equal to the kettle sensor value. This is would be useful for a HERMES or similiar system in which you are not directly heating your mash or you are not directly heating your mash with a high-powered heat source.
@@ -200,7 +200,7 @@ HTTPAuth:
   description: This plugin password protects your entire CraftBeerPi installation. This is a must have if you want to make your installation globally accessible.
   api: 3.0
   author: Carl Allen
-  repo_url: https://github.com/carlallen/cbpi_HTTPAuth.git
+  repo_url: https://github.com/jpgimenez/cbpi_HTTPAuth.git
 
 OWFSTemperaturePlugin:
   description: temperature plugin for cbpi. Using owfs.
@@ -230,202 +230,202 @@ OneWireWithFilter:
   description: This is basically the default one wire senore plugin but with two additional config parameter to filter wrong values
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-onewire-with-filter.git
+  repo_url: https://github.com/jpgimenez/cbpi-onewire-with-filter.git
 
 TPLinkPlugin:
   description: The TPLinkPlugin allows CraftBeerPi to use the TPLink Wi-Fi Smart Plugs
   api: 3.0
   author: Atle Ravndal
-  repo_url: https://github.com/aravndal/TPLinkPlug.git
+  repo_url: https://github.com/jpgimenez/TPLinkPlug.git
   
 AdafruitDHT_Plugin:
   description: AdafruitDHT Plugin for combind humidity and temperature sensor
   api: 3.0
   author: Manuel Fritsch 
-  repo_url: https://github.com/Manuel83/cbpi-Adafruit_DHT.git  
+  repo_url: https://github.com/jpgimenez/cbpi-Adafruit_DHT.git  
 
 ThingSpeak:
   description: The ThingSpeak Plugin allows CraftBeerPi 3.0 to send sensor data to ThingSpeak.com
   api: 3.0
   author: Atle Ravndal
-  repo_url: https://github.com/aravndal/ThingSpeak.git
+  repo_url: https://github.com/jpgimenez/ThingSpeak.git
 
 TimedAgitator:
   description: This simple plugin allows you to switch on and off a agitator by timer. 
   api: 3.0
   author: Miracel Vip
-  repo_url: https://github.com/MiracelVip/cbpi-TimedAgitator.git
+  repo_url: https://github.com/jpgimenez/cbpi-TimedAgitator.git
 
 Silvercrest433Mhz:
   description: This is an actor plugin for CraftbeerPi 3.0, which aims to provide a way to switch radio sockets on and off. Right now there is only one supported set, the silvercrest RCP DP3 3711-A.
   api: 3.0
   author: Clemens Krack
-  repo_url: https://github.com/ckrack/cbpi-433silvercrest.git
+  repo_url: https://github.com/jpgimenez/cbpi-433silvercrest.git
 
 BoilStepWithCountdownTimers:
   description: Boil step with hop additions that countdown to end of boil plus extra reminders (e.g prep yeast, prep fermenter, etc).
   api: 3.0
   author: Christopher Speck
-  repo_url: https://github.com/cgspeck/cbpi-boilstep-with-countdown.git
+  repo_url: https://github.com/jpgimenez/cbpi-boilstep-with-countdown.git
 
 BoilStepWithHopDroper:
   description: A custom boil step with hop dropper
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-boil-hopdropper.git
+  repo_url: https://github.com/jpgimenez/cbpi-boil-hopdropper.git
 
 DependentActor:
   description: This CraftBeerPi 3.0 plugin provides a new actor type called DependentActor. DependentActors are containers for existing Base Actors, which will only power ON if their Actor Dependency is in the correct state. The Actor Dependency must be ON if it is set as a prerequisite, and OFF if it is set as a restriction.
   api: 3.0
   author: Justin Angevaare
-  repo_url: https://github.com/jangevaare/cbpi-DependentActor.git
+  repo_url: https://github.com/jpgimenez/cbpi-DependentActor.git
 
 CascadeControl:
   description: "Formally known as CascadePID, this CraftBeerPi 3.0 plugin provides several new kettle types: AdvancedPID, AdvancedHysteresis, CascadePID, and CascadeHysteresis. This plugin has been motivated by sophisticated mash temperature control within popular RIMS and HERMS breweries, however it has other uses. Read the README."
   api: 3.0
   author: Justin Angevaare
-  repo_url: https://github.com/jangevaare/cbpi-CascadeControl.git
+  repo_url: https://github.com/jpgimenez/cbpi-CascadeControl.git
 
 OneWireAdvanced:
   description: "This CraftBeerPi 3.0 plugin provides a new sensor type called OneWireAdvanced. This plugin attempts to provide even more control over DS18B20 temperature readings in CraftBeerPi. It allows setting of: sensor bias, sensor precision, exponential moving average, low and high value filters, update interval, and alert options."
   api: 3.0
   author: Justin Angevaare
-  repo_url: https://github.com/jangevaare/cbpi-OneWireAdvanced.git
+  repo_url: https://github.com/jpgimenez/cbpi-OneWireAdvanced.git
   
 OnAtStartup:
   description: This CraftBeerPi 3.0 plugin turns the selected actor on with it's initialization with a specified power level. Nothing more, nothing less. It is intended to be hidden from the dashboard. May be used to automatically turn on a panel fan controlled by a GPIO, for instance.
   api: 3.0
   author: Justin Angevaare
-  repo_url: https://github.com/jangevaare/cbpi-OnAtStartup.git
+  repo_url: https://github.com/jpgimenez/cbpi-OnAtStartup.git
 
 PIDSmartBoilWithPump:
   description: This plugin uses the PID alogrithm during mash phase, then once boiling temperature is called for 100% power, and once a boiling threshold is reached scales down to a configurable value. This plugin also controls the pump for you automatically, running the pump during mash with configurable rests, then running the pump during boil ramp up until a configurable threshold is reached.
   api: 3.0
   author: Christopher Speck
-  repo_url: https://github.com/cgspeck/cbpi-pidsmartboil-withpump.git
+  repo_url: https://github.com/jpgimenez/cbpi-pidsmartboil-withpump.git
 
 TFTDisplay:
   description: With this add-on you can display a temperature graph of a kettle (its sensor) or of a fermenter on a 240 x 320 TFT SPI display. It is based on the ILI9341 controller.
   api: 3.0
   author: Jan Battermann
-  repo_url: https://github.com/JamFfm/TFTDisplay.git
+  repo_url: https://github.com/jpgimenez/TFTDisplay.git
   
 Generic433MHzSocket:
   description: Controls generic 433MHz sockets with flexible configuration 
   api: 3.0
   author: Filipe Matos
-  repo_url: https://github.com/filipematos95/cbpi-generic-socket433
+  repo_url: https://github.com/jpgimenez/cbpi-generic-socket433
 
 CBPi-Wii:
   description: This plugin extends the CraftBeerPi software by a sensor in order to monitor weight changes (KG/LBS) using a Nintento Wii Balance Board. 
   api: 3.0
   author: Frederick-Claud Dimmer
-  repo_url: https://github.com/peakMeissner/cbpi-Wii
+  repo_url: https://github.com/jpgimenez/cbpi-Wii
   
 PHMeasure:
   description: With this add-on you can display pH values and the coresponding voltage via a MCP3008 analog/digital converter
   api: 3.0
   author: Jan Battermann
-  repo_url: https://github.com/JamFfm/PHMeasure.git
+  repo_url: https://github.com/jpgimenez/PHMeasure.git
 
 GlycolChillerController:
   description: GlycolChillerController which just controls a chiller. 
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/glycol_chiller_controller.git
+  repo_url: https://github.com/jpgimenez/glycol_chiller_controller.git
 
 DynDns:
   description: DynDns
   api: 3.0
   author: MiracelVip
-  repo_url: https://github.com/MiracelVip/cbpi-DynDns.git
+  repo_url: https://github.com/jpgimenez/cbpi-DynDns.git
 
 ExtendedMenu:
   description: ExtendedMenu
   api: 3.0
   author: MiracelVip
-  repo_url: https://github.com/MiracelVip/cbpi-ExtendedMenu.git
+  repo_url: https://github.com/jpgimenez/cbpi-ExtendedMenu.git
 
 GPIObutton:
   description: This is a CraftBeerPi 3.0 sensor that allows you to have up to 4 physical buttons in order to accept GPIO button press after which it performs an API call.
   api: 3.0
   author: Jan Haudhuyze
-  repo_url: https://github.com/jhhbe/cbpi.git
+  repo_url: https://github.com/jpgimenez/cbpi.git
   
 SayItPlugin:
   description: A simple notification reader for for CraftBeerPi3
   api: 3.0
   author: Lawrence N Wagy
-  repo_url: https://github.com/lwagy/SayIt.git
+  repo_url: https://github.com/jpgimenez/SayIt.git
 
 BrewersFriend:
   description: A simple notification reader for for CraftBeerPi3
   api: 3.0
   author: Carl Allen
-  repo_url: https://github.com/carlallen/cbpi_BrewersFriend.git
+  repo_url: https://github.com/jpgimenez/cbpi_BrewersFriend.git
   
 Nexa433:
   description: Plugin for HomeEasy/Nexa 433 mhz self-learning power sockets
   api: 3.0
   author: Michael Mackiewicz
-  repo_url: https://github.com/Lai1337/cbpi-homeeasy_nexa433.git
+  repo_url: https://github.com/jpgimenez/cbpi-homeeasy_nexa433.git
 
 CBPiPlaato:
   description: Plaato Plugin for Craftbeerpi3
   api: 3.0
   author: Nick Sharp
-  repo_url: https://github.com/sharpn/cbpi-plaato.git
+  repo_url: https://github.com/jpgimenez/cbpi-plaato.git
 
 FermentWifiPlugin:
   description: FermentWifi Plugin
   api: 3.0
   author: Tiago Castro
-  repo_url: https://github.com/tiagoclc/cbpi_FermentWifi.git
+  repo_url: https://github.com/jpgimenez/cbpi_FermentWifi.git
   
 TelegramPushNotifications:
   description: This allows you to send any messages that appear in Craftbeerpi to Telegram
   api: 3.0
   author: Nikita Shatunov
-  repo_url: https://github.com/ShintoTuna/cbpi-telegram.git
+  repo_url: https://github.com/jpgimenez/cbpi-telegram.git
 
 RectifyPlugin:
   description: This plugin allows you to use CraftBeerPi to automate the process of rectification and distillation
   api: 3.0
   author: saniaxxx
-  repo_url: https://github.com/saniaxxx/RectifyPlugin.git
+  repo_url: https://github.com/jpgimenez/RectifyPlugin.git
 
 IFTTTWebHookActor:
   description: This actor can be used to switch any of the smart switches that the IFTTT platform allows
   api: 3.0
   author: Nick Sharp
-  repo_url: https://github.com/sharpn/cbpi-iftttwebhookactor.git
+  repo_url: https://github.com/jpgimenez/cbpi-iftttwebhookactor.git
 
 Whitelist:
   description: This plugin allows you to customise the ips that can access the cbpi ui
   api: 3.0
   author: Nick Sharp
-  repo_url: https://github.com/sharpn/cbpi-whitelist.git
+  repo_url: https://github.com/jpgimenez/cbpi-whitelist.git
 
 FermenterHysteresisWithThreshold:
   description: CraftBeerPi Fermenter Hysteresis with min and max threashold for switch off the logic
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi-fermenter-hysteresis-threshold.git
+  repo_url: https://github.com/jpgimenez/cbpi-fermenter-hysteresis-threshold.git
   
 ModMeshStep:
   description: This plugin is made for CraftBeerPi3 to extend protective capabilities in regards to a problem which could occur with SSR when they fail
   api: 3.0
   author: Miha Zivkovic
-  repo_url: https://github.com/exoticatom/ModMashStep.git
+  repo_url: https://github.com/jpgimenez/ModMashStep.git
 
 NextionDisplay:
   description: Connect a Nextion 3.5" display, shows charts of selcted kettle/fermenter, watch up to 4 kettle at once
   api: 3.0
   author: Jan Battermann
-  repo_url: https://github.com/JamFfm/NEXTIONDisplay.git
+  repo_url: https://github.com/jpgimenez/NEXTIONDisplay.git
 
 AutoStartFermenter:
     description: Auto starts a list of fermenters when CBPi3 starts so that fermentation resumes where it left off before Pi restarts or power failures. 
     api: 3.0
     author: Joe Richards
-    repo_url: https://github.com/viyh/cbpi-autostart-fermenter
+    repo_url: https://github.com/jpgimenez/cbpi-autostart-fermenter
